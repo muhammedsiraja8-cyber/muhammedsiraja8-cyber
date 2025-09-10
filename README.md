@@ -13,4 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--><!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Assalamu Alaikum 👋</h1>
+    <p>Wannan shine shafina na farko a GitHub Pages!</p>
+    <img src="images/logo.png" alt="My Logo" width="200">
+</body>
+</html>
